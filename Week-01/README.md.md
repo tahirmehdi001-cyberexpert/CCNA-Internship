@@ -231,49 +231,32 @@ Screenshots will be added after completing and verifying the practical lab.
 
 **Learning Outcomes**
 
-
-
 Through this task, I improved my understanding of:
 
-
-
 &#x20;Networking fundamentals
-
 &#x20;Cisco Packet Tracer
-
 &#x20;IP addressing and subnet masks
-
 &#x20;Router and switch configuration
-
 &#x20;Serial communication
-
 &#x20;Network routing
-
 &#x20;ICMP and ping testing
-
 &#x20;Network troubleshooting
 
 
 
 &#x20;**Conclusion**
 
-
-
 This was my first practical task in the TechBiz Academy CCNA Networking Internship. It provided hands-on experience in designing a network topology, configuring Cisco devices, and understanding communication between different networks.
-
-
 
 I look forward to completing more practical networking tasks and strengthening my CCNA skills.
 
 
 
-\---
+ 
 
 
 
 &#x20;**Intern:**  Tahir Mehdi  
-
 &#x20;**Internship:**  TechBiz Academy – CCNA Networking  
-
 &#x20;**Focus:**  Networking | Routing \& Switching | Cybersecurity
 
