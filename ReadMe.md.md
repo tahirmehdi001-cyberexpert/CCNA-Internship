@@ -44,13 +44,16 @@ This repository documents my hands-on learning journey at \*\*TechBiz Academy\*\
 
 &#x20;**Weekly Tasks \& Progress**
 
+&#x20;
+
+|**Week**|**Task**|**Description**|**Status**|
+|-|-|-|-|
+|Week 01|Task 01|<br />Build Your CCNA Lab + How Networks Actually Work|In Progress|
+|||||
+|||||
+|||||
 
 
-| Week | Task | Description | Status |
-
-|---|---|---|---|
-
-| Week 01 | Task 01 | Build Your CCNA Lab + How Networks Actually Work | In Progress |
 
 
 
@@ -58,19 +61,15 @@ This repository documents my hands-on learning journey at \*\*TechBiz Academy\*\
 
 
 
-\- Cisco Packet Tracer
-
-\- Cisco IOS CLI
-
-\- TCP/IP Networking
-
-\- IP Addressing \& Subnetting
-
-\- Routing \& Switching
+* &#x20;Cisco Packet Tracer
+* &#x20;Cisco IOS CLI
+* &#x20;TCP/IP Networking
+* &#x20;IP Addressing \& Subnetting
+* &#x20;Routing \& Switching
 
 
 
-\## **Repository Contents**
+&#x20; **Repository Contents**
 
 
 
@@ -78,21 +77,16 @@ This repository includes:
 
 
 
-\- Weekly internship assignments
-
-\- Cisco Packet Tracer project files
-
-\- Network topology diagrams
-
-\- Router and switch configurations
-
-\- Practical lab screenshots
-
-\- Lab reports and documentation
+* &#x20;Weekly internship assignments
+* &#x20;Cisco Packet Tracer project files
+* &#x20;Network topology diagrams
+* &#x20;Router and switch configurations
+* &#x20;Practical lab screenshots
+* &#x20;Lab reports and documentation
 
 
 
-\## **Learning Goal**
+&#x20; **Learning Goal**
 
 
 
@@ -104,9 +98,9 @@ My goal is to strengthen my networking fundamentals and build practical skills f
 
 
 
-\*\*Maintained by:\*\* Tahir Mehdi  
+&#x09;**Maintained by:**  Tahir Mehdi  
 
-\*\*Organization:\*\* TechBiz Academy  
+&#x09;**Organization:**  TechBiz Academy  
 
-\*\*Focus:\*\* CCNA Networking \& Cybersecurity
+&#x09;**Focus:**  CCNA Networking \& Cybersecurity
 
