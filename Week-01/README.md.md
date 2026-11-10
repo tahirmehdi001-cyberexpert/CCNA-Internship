@@ -184,7 +184,7 @@ This helped me understand how switches forward frames and routers forward packet
 
 **Network Topology**
 
-!\[Network Topology](Screenshots\\Topology.png)
+![Network Topology](Screenshots\\Topology.png)
 
 
 
@@ -192,25 +192,25 @@ This helped me understand how switches forward frames and routers forward packet
 
 **Ping Connectivity Test**
 
-!\[Ping Test on PC1](Screenshots/Ping-Test-On-PC1.png)
+![Ping Test on PC1](Screenshots/Ping-Test-On-PC1.png)
 
-!\[Ping Test on PC4](Screenshots/Ping-Test-On-PC4.png)
+![Ping Test on PC4](Screenshots/Ping-Test-On-PC4.png)
 
 &#x20;
 
 **Show Ip Interface brief**
 
-!\[Show Ip Interface brief Router 1](Screenshots/Show Ip interface breif-Roter 1.png)
+![Show Ip Interface brief Router 1](Screenshots/Show Ip interface breif-Roter 1.png)
 
-!\[Show Ip Interface brief Router 2](Screenshots/Show Ip interface breif-Roter 2.png)
+![Show Ip Interface brief Router 2](Screenshots/Show Ip interface breif-Roter 2.png)
 
 
 
 **Show ip Route**
 
-!\[Show ip route of Router 1](Screenshots/Show ip route of Router 1.png)
+![Show ip route of Router 1](Screenshots/Show ip route of Router 1.png)
 
-!\[Show ip route of Router 2](Screenshots/Show ip route of Router 2.png)
+![Show ip route of Router 2](Screenshots/Show ip route of Router 2.png)
 
 
 
