@@ -199,18 +199,13 @@ This helped me understand how switches forward frames and routers forward packet
 &#x20;
 
 **Show Ip Interface brief**
-
-![Show Ip Interface brief Router 1](Screenshots/Show Ip interface breif-Roter 1.png)
-
-![Show Ip Interface brief Router 2](Screenshots/Show Ip interface breif-Roter 2.png)
-
+![Show Ip Interface brief Router 1](Screenshots\Show-Ip-interface-breif-Roter1.png)
+![Show Ip Interface brief Router 2](Show-Ip-interface-breif-Roter2.png)
 
 
 **Show ip Route**
-
-![Show ip route of Router 1](Screenshots/Show ip route of Router 1.png)
-
-![Show ip route of Router 2](Screenshots/Show ip route of Router 2.png)
+![Show Ip Route Router 1](Show-ip-route-of-Router1.png)
+![Show Ip Route Router 2](Show-ip-route-of-Router2.png)
 
 
 
