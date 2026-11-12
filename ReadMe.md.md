@@ -67,14 +67,16 @@ This section tracks my internship assignments, practical activities, and learnin
 |---|---|---|---|
 | Week 01 | Task 01 | Build Your CCNA Lab & How Networks Actually Work | ✅ Completed |
 | Week 01 | Task 02 | IPv4 Addressing & Subnetting | ✅ Completed |
-| Week 01 | Task 03 | Upcoming Assignment | 🔄 In Progress|
-| Week 02 | Task 04 | Upcoming Assignment | ⏳ Upcoming |
-| Week 02 | Task 05| Upcoming Assignment | ⏳ Upcoming |
-| Week 02 | Task 06| Upcoming Assignment | ⏳ Upcoming |
-| Week 03 | Task 07| Upcoming Assignment | ⏳ Upcoming |
-| Week 03 | Task 08| Upcoming Assignment | ⏳ Upcoming |
-| Week 03 | Task 09| Upcoming Assignment | ⏳ Upcoming |
-
+| Week 01 | Task 03 | The IOS Command Line, Interfaces and Recovery | 🔄 In Progress|
+| Week 02 | Task 04 | VLANs and Access Ports | ⏳ Upcoming |
+| Week 02 | Task 05| Trunking, 802.1Q and the Native VLAN | ⏳ Upcoming |
+| Week 02 | Task 06| Spanning Tree and EtherChannel | ⏳ Upcoming |
+| Week 03 | Task 07| Static and Default Routing | ⏳ Upcoming |
+| Week 03 | Task 08| OSPFv2 Single-Area | ⏳ Upcoming |
+| Week 03 | Task 09| Inter-VLAN Routing and First-Hop Redundancy | ⏳ Upcoming |
+| Week 04 | Task 10| DHCP, DNS and NAT/PAT | ⏳ Upcoming |
+| Week 04 | Task 11| IPv6 Addressing and Dual-Stack Routing | ⏳ Upcoming |
+| Week 04 | Task 12| Access Control Lists | ⏳ Upcoming |
 
 > **Note:** Weekly tasks and their statuses will be updated as the internship progresses.
 
