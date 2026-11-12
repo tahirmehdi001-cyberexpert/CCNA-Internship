@@ -98,19 +98,24 @@ I continuously strengthen my knowledge through hands-on labs, technical projects
 - **Additional Learning:** Cisco Networking Academy – Networking Basics
 - **Current Learning Focus:** SOC Operations & Blue Team Cybersecurity
 
-## 📚 Learning & Practical Experience
+## 💼 Professional Training & Experience
 
-I believe that practical experience is essential to becoming a capable cybersecurity professional.
+### 🌐 CCNA Training — Corvit Systems, Rawalpindi
 
-My learning approach includes:
+- Completed professional CCNA training at **Corvit Systems, Rawalpindi**.
+- Gained practical knowledge of networking fundamentals, routing, switching, IP addressing, and subnetting.
+- Performed hands-on networking labs and Cisco device configuration exercises.
+- Developed network troubleshooting and problem-solving skills.
 
-- Building networking labs using Cisco Packet Tracer.
-- Practicing routing, switching, subnetting, and troubleshooting.
-- Exploring Linux environments and cybersecurity tools.
-- Developing practical cybersecurity and networking projects.
-- Learning security monitoring and log analysis.
-- Exploring threat detection and incident response techniques.
-- Documenting technical knowledge and sharing projects on GitHub.
+### 🛠️ CCNA Networking Internship — TechBiz Academy
+
+**Currently pursuing a CCNA Networking Internship at [TechBiz Academy](https://academy.techbiz-sec.com/).**
+
+- Performing hands-on networking labs using Cisco Packet Tracer.
+- Practicing routing, switching, IP addressing, and subnetting.
+- Working on practical networking assignments and technical tasks.
+- Developing network configuration and troubleshooting skills.
+- Documenting lab activities and technical learning on GitHub.
 
 ## 🎯 Career Objective
 
