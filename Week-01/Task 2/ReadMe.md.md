@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-**Practical Implementation of IPv4 Addressing, Binary Conversion & VLSM Subnetting**
+<p align="center">
+  <b>Practical Implementation of IPv4 Addressing, Binary Conversion & VLSM Subnetting</b>
+</p>
 
 ---
 
@@ -33,7 +35,7 @@ The primary objective was to divide the network **192.168.10.0/24** into five sm
 
 The practical implementation was performed using the network topology created in Week 1 – Task 1.
 
-## 📌 Learning Objectives
+### 📌 Learning Objectives
 
 - Understand IPv4 addressing and its 32-bit binary structure.
 - Convert decimal values into 8-bit binary.
@@ -104,7 +106,9 @@ The calculated VLSM addressing scheme was applied to the existing Week 1 – Tas
 
 The following screenshot shows the complete network topology implemented in Cisco Packet Tracer.
 
-![Complete Network Topology](Screenshots\Topology.jpg)
+<p align="center">
+  <img src="Screenshots/Topology.jpg" alt="Complete Network Topology" width="100%" />
+</p>
 
 ---
 
@@ -127,21 +131,29 @@ The following IP addressing scheme was configured on the routers and end devices
 
 **Router 1 – Show IP Interface Brief**
 
-![Router 1 Interface Verification](Screenshots\Router 1-Show_ip_interface brief.jpg)
+<p align="center">
+  <img src="Screenshots/Router1-Show_ip_interface%20brief.jpg" alt="Router 1 Show IP Interface Brief" width="100%" />
+</p>
 
 **Router 2 – Show IP Interface Brief**
 
-![Router 2 Interface Verification](Screenshots\Router 2-Show-ip-interface-brief.jpg)
+<p align="center">
+  <img src="Screenshots/Router2-Show-ip-interface-brief.jpg" alt="Router 2 Show IP Interface Brief" width="100%" />
+</p>
 
 ### PC IP Configuration
 
 **PC1 – IP Configuration**
 
-![PC1 IP Configuration](screenshots/04-pc1-ip-configuration.png)
+<p align="center">
+  <img src="Screenshots/PC1-IP_Configuration.jpg" alt="PC1 IP Configuration" width="100%" />
+</p>
 
 **PC4 – IP Configuration**
 
-![PC4 IP Configuration](screenshots/05-pc4-ip-configuration.png)
+<p align="center">
+  <img src="Screenshots/PC4-IP_Configuration.jpg" alt="PC4 IP Configuration" width="100%" />
+</p>
 
 ---
 
@@ -161,7 +173,7 @@ ping <destination-IP>
 
 ### Connectivity Testing Results
 
-| Test | Source | Destination | Expected Result |
+| Test | Source | Destination | Result |
 |:---|:---|:---|:---|
 | Gateway Ping | PC1 | `192.168.10.1` | Successful |
 | Gateway Ping | PC3 | `192.168.10.65` | Successful |
@@ -170,19 +182,27 @@ ping <destination-IP>
 
 ### 1. Gateway Connectivity – PC1 to Router 1
 
-![PC1 to Router 1 Successful Ping](screenshots/06-gateway-ping-pc1-router1.png)
+<p align="center">
+  <img src="Screenshots/Gateway_Ping_Successful_ping_PC1_to_Router1.jpg" alt="PC1 to Router 1 Successful Ping" width="100%" />
+</p>
 
 ### 2. Gateway Connectivity – PC3 to Router 2
 
-![PC3 to Router 2 Successful Ping](screenshots/07-gateway-ping-pc3-router2.png)
+<p align="center">
+  <img src="Screenshots/Gateway_Ping_Successful_ping_PC3_to_Router2.jpg" alt="PC3 to Router 2 Successful Ping" width="100%" />
+</p>
 
 ### 3. Neighbour Connectivity – PC1 to PC2
 
-![PC1 to PC2 Successful Ping](screenshots/08-neighbour-ping-pc1-pc2.png)
+<p align="center">
+  <img src="Screenshots/Neighbour_Ping-%20PC1_to_PC2_Successful_ping..jpg" alt="PC1 to PC2 Successful Ping" width="100%" />
+</p>
 
 ### 4. Inter-Network Connectivity – PC1 to PC4
 
-![PC1 to PC4 Successful Ping](screenshots/09-inter-network-ping-pc1-pc4.png)
+<p align="center">
+  <img src="Screenshots/Inter-Network_Ping-PC1_to_PC4_Successful_ping..jpg" alt="PC1 to PC4 Successful Ping" width="100%" />
+</p>
 
 ---
 
@@ -190,7 +210,7 @@ ping <destination-IP>
 
 All practical configurations and connectivity tests were performed in Cisco Packet Tracer.
 
-| No. | Screenshot |
+| No. | Practical Evidence |
 |:---:|:---|
 | 01 | Complete Network Topology |
 | 02 | Router 1 – Show IP Interface Brief |
@@ -208,7 +228,7 @@ All practical configurations and connectivity tests were performed in Cisco Pack
 
 For detailed calculations, explanations, and practical evidence, refer to the complete PDF report:
 
-**[Week 1 – Task 2: IPv4 Addressing & Subnetting Report](docs/Week_1_Task_2_IPv4_Subnetting_Report_Tahir_Mehdi)**
+📑 **[Week 1 – Task 2: IPv4 Addressing & Subnetting Report](docs/Week_1_Task_2_IPv4_Subnetting_Report_Tahir_Mehdi.pdf)**
 
 ---
 
@@ -227,7 +247,7 @@ Through this practical task, I strengthened my understanding of:
 
 ## 🛠️ Tools & Technologies
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/IPv4-Networking-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/VLSM-Subnetting-green?style=flat-square" />
@@ -249,8 +269,7 @@ Through this practical task, I strengthened my understanding of:
 ---
 
 <p align="center">
-  **Learning by Configuring, Testing & Troubleshooting Networks.**
-  
-  <br/>
-  Developed by **Tahir Mehdi**
+  <b>Learning by Configuring, Testing & Troubleshooting Networks.</b>
+  <br/><br/>
+  Developed by <b>Tahir Mehdi</b>
 </p>
