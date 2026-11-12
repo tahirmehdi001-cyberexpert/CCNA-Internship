@@ -1,106 +1,183 @@
-# &#x20;                 CCNA Networking Internship 
+# 🌐 CCNA Networking Internship
 
-## &#x20;                           TechBiz Academy
+<h3 align="center">TechBiz Academy</h3>
 
+<p align="center">
+  <strong>Hands-on Networking | Cisco Technologies | Network Infrastructure</strong>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Program-CCNA%20Networking%20Internship-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Networking%20%26%20Infrastructure-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Organization-TechBiz%20Academy-orange?style=for-the-badge" />
+</p>
 
-Welcome to my CCNA Networking Internship repository!
+<p align="center">
+  <a href="https://academy.techbiz-sec.com/">
+    <img src="https://img.shields.io/badge/TechBiz%20Academy-Official%20Website-2F80ED?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Networking%20%26%20Cybersecurity-6A5ACD?style=flat-square" />
+</p>
 
+---
 
+## 📌 About This Repository
 
-This repository documents my hands-on learning journey at \*\*TechBiz Academy\*\*, where I am developing practical skills in computer networking, Cisco technologies, network configuration, and troubleshooting.
+Welcome to my **CCNA Networking Internship** repository!
 
+This repository documents my hands-on learning journey at **TechBiz Academy**, where I am developing practical knowledge and technical skills in computer networking, Cisco technologies, network infrastructure, IP addressing, routing, switching, and troubleshooting.
 
+Throughout this internship, I will work on structured weekly assignments, practical networking labs, network topology designs, configuration exercises, and technical documentation using **Cisco Packet Tracer and Cisco IOS**.
 
-&#x20;**About the Internship**
+The primary objective is to strengthen my networking fundamentals through practical implementation and develop industry-relevant skills for a future career in **Network Engineering and Cybersecurity**.
 
-&#x20;
+## 👨‍💻 Internship Overview
 
-&#x20;**Organization:** TechBiz Academy
+| Detail | Information |
+|---|---|
+| **Organization** | TechBiz Academy |
+| **Program** | CCNA Networking Internship |
+| **Domain** | Networking & Infrastructure |
+| **Intern** | Tahir Mehdi |
+| **Student ID** | TBS-2026-258 |
+| **Tools** | Cisco Packet Tracer, Cisco IOS |
+| **Learning Approach** | Hands-on Labs & Practical Assignments |
+| **Repository Type** | Technical Learning Portfolio |
 
-&#x20;**Program:**   CCNA Networking Internship
+## 🎯 Learning Objectives
 
-&#x20;**Domain:**   Networking \& Infrastructure
+The internship focuses on developing a strong foundation in networking concepts and practical Cisco networking skills.
 
-&#x20;**Tools:**    Cisco Packet Tracer, Cisco IOS
+- Understand computer networking fundamentals and communication.
+- Explore the OSI and TCP/IP reference models.
+- Learn IPv4 addressing, subnetting, and VLSM.
+- Configure Cisco routers and switches.
+- Understand Ethernet, MAC addressing, and switching concepts.
+- Implement and understand routing fundamentals.
+- Practice VLANs, trunking, and inter-network communication.
+- Perform network connectivity testing and troubleshooting.
+- Design and implement network topologies using Cisco Packet Tracer.
+- Develop practical documentation and technical problem-solving skills.
 
-&#x20;**Student:**  Tahir Mehdi
+## 📅 Weekly Tasks & Progress
 
+This section tracks my internship assignments, practical activities, and learning progress.
 
+| Week | Task | Assignment / Topic | Status |
+|---|---|---|---|
+| Week 01 | Task 01 | Build Your CCNA Lab & How Networks Actually Work | 🔄 In Progress |
+| Week 01 | Task 02 | IPv4 Addressing & Subnetting | 🔄 In Progress |
+| Week 02 | — | Upcoming Assignment | ⏳ Upcoming |
+| Week 03 | — | Upcoming Assignment | ⏳ Upcoming |
+| Week 04 | — | Upcoming Assignment | ⏳ Upcoming |
 
-&#x20; **Learning Objectives**
+> **Note:** Weekly tasks and their statuses will be updated as the internship progresses.
 
+## 🛠️ Technologies & Tools
 
+The following tools and technologies are being used throughout this internship.
 
-* &#x20;Understand networking fundamentals.
-* &#x20;Learn OSI and TCP/IP models.
-* &#x20;Configure Cisco routers and switches.
-* &#x20;Practice IP addressing and subnetting.
-* &#x20;Understand routing and switching.
-* &#x20;Perform network troubleshooting.
-* &#x20;Build practical networking labs using Cisco Packet Tracer.
+| Technology / Tool | Purpose |
+|---|---|
+| Cisco Packet Tracer | Network simulation and topology design |
+| Cisco IOS CLI | Router and switch configuration |
+| IPv4 / IPv6 | Network addressing |
+| TCP/IP | Network communication |
+| OSI Model | Understanding network communication layers |
+| Subnetting & VLSM | Efficient IP address allocation |
+| Routing & Switching | Network connectivity and traffic forwarding |
+| Git & GitHub | Version control and technical documentation |
 
+## 📂 Repository Structure
 
+The repository is organized to keep weekly assignments, practical labs, reports, and supporting documentation easy to navigate.
 
-&#x20;**Weekly Tasks \& Progress**
+```text
+CCNA-Networking-Internship/
+│
+├── Week-01/
+│   │
+│   ├── Task-01/
+│   │   ├── Packet-Tracer/
+│   │   ├── Screenshots/
+│   │   ├── Docs/
+│   │   └── README.md
+│   │
+│   ├── Task-02/
+│   │   ├── Packet-Tracer/
+│   │   ├── Screenshots/
+│   │   ├── Docs/
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+├── Week-02/
+│   └── README.md
+│
+├── Week-03/
+│   └── README.md
+│
+└── README.md
+```
 
-&#x20;
+*The directory structure will evolve as new weekly assignments and practical exercises are completed.*
 
-|**Week**|**Task**|**Description**|**Status**|
-|-|-|-|-|
-|Week 01|Task 01|<br />Build Your CCNA Lab + How Networks Actually Work|In Progress|
-|||||
-|||||
-|||||
+## 🧪 Practical Learning & Implementation
 
+This repository is intended to serve as a record of actual hands-on work, not just theoretical notes.
 
+Each assignment may include:
 
+- **Network Topologies:** Cisco Packet Tracer network designs.
+- **Configuration Files:** `.pkt` project files and relevant configuration commands.
+- **Screenshots:** Evidence of practical implementation and verification.
+- **Lab Reports:** Structured technical documentation in PDF format.
+- **Testing & Verification:** Connectivity tests, command outputs, and troubleshooting results.
 
+## 📈 Skills Development
 
-&#x20; **Technologies \& Tools**
+Through these practical exercises, I aim to develop the following technical competencies:
 
+- Network Fundamentals
+- Cisco Router & Switch Configuration
+- IPv4 Addressing and Subnetting
+- VLSM and IP Planning
+- Routing and Switching
+- Network Topology Design
+- Network Connectivity Testing
+- Troubleshooting and Problem Solving
+- Technical Documentation
 
+## 🚀 Career Goals
 
-* &#x20;Cisco Packet Tracer
-* &#x20;Cisco IOS CLI
-* &#x20;TCP/IP Networking
-* &#x20;IP Addressing \& Subnetting
-* &#x20;Routing \& Switching
+My long-term goal is to build a strong technical foundation in **Networking and Cybersecurity**.
 
+This internship is an important step towards developing practical networking expertise and preparing for advanced areas such as:
 
+- Network Engineering
+- Network Security
+- Security Operations Center (SOC)
+- Infrastructure Security
+- Network Automation
 
-&#x20; **Repository Contents**
+I believe that strong networking fundamentals are essential for understanding, securing, and managing modern IT infrastructure.
 
+## 🤝 Acknowledgement
 
+I would like to thank **TechBiz Academy** for providing this learning opportunity and a structured environment to strengthen my networking knowledge through practical assignments and hands-on exercises.
 
-This repository includes:
+---
 
+<p align="center">
+  <strong>Maintained by Tahir Mehdi</strong>
+  <br />
+  CCNA Networking Intern | TechBiz Academy
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Networking-Learning%20by%20Doing-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Building-Towards%20Cybersecurity-success?style=flat-square" />
+</p>
 
-
-* &#x20;Weekly internship assignments
-* &#x20;Cisco Packet Tracer project files
-* &#x20;Network topology diagrams
-* &#x20;Router and switch configurations
-* &#x20;Practical lab screenshots
-* &#x20;Lab reports and documentation
-
-
-
-&#x20; **Learning Goal**
-
-
-
-My goal is to strengthen my networking fundamentals and build practical skills for a future career in Network Engineering and Cybersecurity.
-
-
-
-\---
-
-
-
-&#x09;**Maintained by:**  Tahir Mehdi  
-
-&#x09;**Organization:**  TechBiz Academy  
-
-&#x09;**Focus:**  CCNA Networking \& Cybersecurity
-
+<p align="center">
+  <i>Learn • Configure • Test • Troubleshoot • Improve</i>
+</p>
