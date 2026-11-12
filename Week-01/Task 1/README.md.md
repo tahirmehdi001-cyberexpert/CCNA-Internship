@@ -148,13 +148,13 @@ The following screenshots document the network topology, connectivity tests, and
 **Router 1 – show ip interface brief**
 
 <p align="center">
-  <img src="Screenshots/Show-Ip-interface-brief-Router1.png" width="850" alt="Router 1 Interface Verification"/>
+  <img src="Screenshots\Show_Ip_interface_breif_Roter1.png" width="850" alt="Router 1 Interface Verification"/>
 </p>
 
 **Router 2 – show ip interface brief**
 
 <p align="center">
-  <img src="Screenshots/Show-Ip-interface-brief-Router2.png" width="850" alt="Router 2 Interface Verification"/>
+  <img src="Screenshots\Show_Ip_interface_breif_Roter2.png" width="850" alt="Router 2 Interface Verification"/>
 </p>
 
 ### 4. Routing Table Verification
