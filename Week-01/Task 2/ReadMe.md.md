@@ -231,7 +231,24 @@ For detailed calculations, explanations, and practical evidence, refer to the co
 📑 **[Week 1 – Task 2: IPv4 Addressing & Subnetting Report](docs/Week_1_Task_2_IPv4_Subnetting_Report_Tahir_Mehdi.pdf)**
 
 ---
+---
 
+## 📂 Download Project Files
+
+Access the practical project files below:
+
+| File | Description |
+|:---|:---|
+| 📄 PDF Report | Complete task report with calculations and practical evidence. |
+| 🖥️ Packet Tracer File | Editable Cisco Packet Tracer network topology (`.pkt`). |
+
+### 📥 Cisco Packet Tracer Project
+
+**[⬇️ Download Packet Tracer Project (.pkt)](Week_1_Task_2_IPv4_Subnetting_Tahir_Mehdi.pkt)**
+
+Open the downloaded `.pkt` file using Cisco Packet Tracer to explore the network topology, device configurations, and practical implementation.
+
+---
 ## 📚 Key Learnings
 
 Through this practical task, I strengthened my understanding of:
