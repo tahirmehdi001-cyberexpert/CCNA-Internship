@@ -178,8 +178,8 @@ The following screenshots document the network topology, connectivity tests, and
 The complete practical documentation, including lab configuration, network design, and verification evidence, is available below.
 
 <p align="center">
-  <a href="Lab-Report.pdf">
-    <img src="https://img.shields.io/badge/VIEW-PDF%20LAB%20REPORT-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="docs/Tahir_Mehdi_CCNA_Week1_Task1_Lab_Report.pdf">
+    <img src="https://img.shields.io/badge/VIEW-PDF%20LAB%20REPORT-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View PDF Lab Report" />
   </a>
 </p>
 
@@ -193,8 +193,8 @@ The complete practical documentation, including lab configuration, network desig
 The original Cisco Packet Tracer project is included in this repository.
 
 <p align="center">
-  <a href="Week1-Task1.pkt">
-    <img src="https://img.shields.io/badge/DOWNLOAD-PACKET%20TRACER%20PROJECT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <a href="Task 1.pkt">
+    <img src="https://img.shields.io/badge/DOWNLOAD-PACKET%20TRACER%20PROJECT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Download Packet Tracer Project">
   </a>
 </p>
 
