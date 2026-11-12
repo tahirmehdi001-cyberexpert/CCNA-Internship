@@ -189,7 +189,7 @@ ping <destination-IP>
 ### 2. Gateway Connectivity – PC3 to Router 2
 
 <p align="center">
-  <img src="Screenshots/Gateway_Ping_Successful_ping_PC3_to_Router2.jpg" alt="PC3 to Router 2 Successful Ping" width="100%" />
+  <img src="Screenshots\Gateway_Ping_Successful_ping_PC1_to_Router1.jpg" alt="PC3 to Router 2 Successful Ping" width="100%" />
 </p>
 
 ### 3. Neighbour Connectivity – PC1 to PC2
