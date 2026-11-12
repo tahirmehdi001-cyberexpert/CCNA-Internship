@@ -65,11 +65,16 @@ This section tracks my internship assignments, practical activities, and learnin
 
 | Week | Task | Assignment / Topic | Status |
 |---|---|---|---|
-| Week 01 | Task 01 | Build Your CCNA Lab & How Networks Actually Work | 🔄 In Progress |
-| Week 01 | Task 02 | IPv4 Addressing & Subnetting | 🔄 In Progress |
-| Week 02 | — | Upcoming Assignment | ⏳ Upcoming |
-| Week 03 | — | Upcoming Assignment | ⏳ Upcoming |
-| Week 04 | — | Upcoming Assignment | ⏳ Upcoming |
+| Week 01 | Task 01 | Build Your CCNA Lab & How Networks Actually Work | ✅ Completed |
+| Week 01 | Task 02 | IPv4 Addressing & Subnetting | ✅ Completed |
+| Week 01 | Task 03 | Upcoming Assignment | 🔄 In Progress|
+| Week 02 | Task 04 | Upcoming Assignment | ⏳ Upcoming |
+| Week 02 | Task 05| Upcoming Assignment | ⏳ Upcoming |
+| Week 02 | Task 06| Upcoming Assignment | ⏳ Upcoming |
+| Week 03 | Task 07| Upcoming Assignment | ⏳ Upcoming |
+| Week 03 | Task 08| Upcoming Assignment | ⏳ Upcoming |
+| Week 03 | Task 09| Upcoming Assignment | ⏳ Upcoming |
+
 
 > **Note:** Weekly tasks and their statuses will be updated as the internship progresses.
 
