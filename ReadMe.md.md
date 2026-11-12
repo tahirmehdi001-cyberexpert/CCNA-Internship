@@ -77,7 +77,12 @@ This section tracks my internship assignments, practical activities, and learnin
 | Week 04 | Task 10| DHCP, DNS and NAT/PAT | ⏳ Upcoming |
 | Week 04 | Task 11| IPv6 Addressing and Dual-Stack Routing | ⏳ Upcoming |
 | Week 04 | Task 12| Access Control Lists | ⏳ Upcoming |
-
+| Week 05 | Task 13| Device Hardening and Layer 2 Security | ⏳ Upcoming |
+| Week 05 | Task 14| Wireless Networking | ⏳ Upcoming |
+| Week 05 | Task 15|Automation and Programmability | ⏳ Upcoming |
+| Week 06 | Task 16|Timed Troubleshooting — Fix a Network You Did Not Build | ⏳ Upcoming |
+| Week 06 | Task 17|CCNA 200-301 Exam Preparation | ⏳ Upcoming |
+| Week 06 | Task 18| CAPSTONE — Design, Build and Document a Full Enterprise Network | ⏳ Upcoming |
 > **Note:** Weekly tasks and their statuses will be updated as the internship progresses.
 
 ## 🛠️ Technologies & Tools
