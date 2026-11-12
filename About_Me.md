@@ -93,29 +93,12 @@ I continuously strengthen my knowledge through hands-on labs, technical projects
 ## 🎓 Education & Certifications
 
 - **Education:** Associate Degree Program in Computer Science (ADPCS)
-- **Institution:** University of Southern Punjab
+- **Institution:** University of Southern Punjab,Multan
 - **Certification:** Cisco Certified Network Associate (CCNA)
 - **Additional Learning:** Cisco Networking Academy – Networking Basics
 - **Current Learning Focus:** SOC Operations & Blue Team Cybersecurity
 
-## 💼 Professional Training & Experience
 
-### 🌐 CCNA Training — Corvit Systems, Rawalpindi
-
-- Completed professional CCNA training at **Corvit Systems, Rawalpindi**.
-- Gained practical knowledge of networking fundamentals, routing, switching, IP addressing, and subnetting.
-- Performed hands-on networking labs and Cisco device configuration exercises.
-- Developed network troubleshooting and problem-solving skills.
-
-### 🛠️ CCNA Networking Internship — TechBiz Academy
-
-**Currently pursuing a CCNA Networking Internship at [TechBiz Academy](https://academy.techbiz-sec.com/).**
-
-- Performing hands-on networking labs using Cisco Packet Tracer.
-- Practicing routing, switching, IP addressing, and subnetting.
-- Working on practical networking assignments and technical tasks.
-- Developing network configuration and troubleshooting skills.
-- Documenting lab activities and technical learning on GitHub.
 
 ## 🎯 Career Objective
 
