@@ -28,7 +28,7 @@
 
 
 
-## \## 👨‍💻 Student Information
+## 👨‍💻 Student Information
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-### \## 🎯 Project Overview
+### 🎯 Project Overview
 
 
 
@@ -82,7 +82,7 @@ The main objective was to divide the network `192.168.10.0/24` into five subnets
 
 
 
-### \## 🧠 Topics Covered
+### 🧠 Topics Covered
 
 
 
@@ -104,7 +104,7 @@ The main objective was to divide the network `192.168.10.0/24` into five subnets
 
 
 
-### \## 🔢 VLSM Subnetting Plan
+### 🔢 VLSM Subnetting Plan
 
 
 
@@ -128,7 +128,7 @@ The subnets were allocated from the largest host requirement to the smallest to 
 
 
 
-### \### 📍 Detailed Address Allocation
+### 📍 Detailed Address Allocation
 
 
 
@@ -146,7 +146,7 @@ The subnets were allocated from the largest host requirement to the smallest to 
 
 
 
-### \## 🖥️ Practical Lab – Cisco Packet Tracer
+### 🖥️ Practical Lab – Cisco Packet Tracer
 
 
 
@@ -154,7 +154,7 @@ The VLSM addressing plan was applied to the Week 1 Task 1 topology.
 
 
 
-#### \### Network Topology
+#### &#x20;Network Topology
 
 
 
@@ -166,7 +166,7 @@ The VLSM addressing plan was applied to the Week 1 Task 1 topology.
 
 
 
-#### \### IP Addressing Configuration
+#### IP Addressing Configuration
 
 &#x20;
 
@@ -189,7 +189,7 @@ The VLSM addressing plan was applied to the Week 1 Task 1 topology.
 
 
 
-### \## 🧪 Connectivity Verification
+### 🧪 Connectivity Verification
 
 
 
@@ -197,7 +197,7 @@ Connectivity was checked using Cisco Packet Tracer command-line tools.
 
 
 
-#### \### Commands Used
+#### Commands Used
 
 
 
@@ -217,7 +217,7 @@ ping <destination-IP>
 
 
 
-#### \### Connectivity Tests
+#### Connectivity Tests
 
 
 
@@ -234,7 +234,7 @@ ping <destination-IP>
 
 
 
-### \## 📸 Practical Evidence
+### 📸 Practical Evidence
 
 
 
@@ -260,7 +260,7 @@ Screenshots from the Packet Tracer lab are included in the internship task repor
 
 
 
-📄 \*\*Full Task Report:\*\*  
+**📄 Full Task Report:**  
 
 `Week\_1\_Task\_2\_IPv4\_Subnetting\_Report\_Tahir\_Mehdi.pdf`
 
@@ -270,7 +270,7 @@ Screenshots from the Packet Tracer lab are included in the internship task repor
 
 
 
-### \## 📚 Key Learnings
+### &#x20;📚 Key Learnings
 
 
 
@@ -291,7 +291,7 @@ Through this task, I improved my understanding of:
 
 
 
-\## 🚀 Tools \& Technologies
+### 🚀 Tools \& Technologies
 
 
 
