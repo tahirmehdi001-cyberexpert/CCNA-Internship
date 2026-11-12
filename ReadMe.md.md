@@ -3,7 +3,7 @@
 <h3 align="center">TechBiz Academy</h3>
 
 <p align="center">
-  <strong>Hands-on Networking | Cisco Technologies | Network Infrastructure</strong>
+  <strong>Hands-on Networking | Cisco Technologies | Network Infrastructures</strong>
 </p>
 
 <p align="center">
