@@ -104,7 +104,7 @@ The calculated VLSM addressing scheme was applied to the existing Week 1 – Tas
 
 The following screenshot shows the complete network topology implemented in Cisco Packet Tracer.
 
-![Complete Network Topology](screenshots/01-topology.png)
+![Complete Network Topology](Screenshots\Topology.jpg)
 
 ---
 
@@ -127,11 +127,11 @@ The following IP addressing scheme was configured on the routers and end devices
 
 **Router 1 – Show IP Interface Brief**
 
-![Router 1 Interface Verification](screenshots/02-router1-show-ip-interface-brief.png)
+![Router 1 Interface Verification](Screenshots\Router 1-Show_ip_interface brief.jpg)
 
 **Router 2 – Show IP Interface Brief**
 
-![Router 2 Interface Verification](screenshots/03-router2-show-ip-interface-brief.png)
+![Router 2 Interface Verification](Screenshots\Router 2-Show-ip-interface-brief.jpg)
 
 ### PC IP Configuration
 
@@ -208,7 +208,7 @@ All practical configurations and connectivity tests were performed in Cisco Pack
 
 For detailed calculations, explanations, and practical evidence, refer to the complete PDF report:
 
-**[Week 1 – Task 2: IPv4 Addressing & Subnetting Report](docs/Week_1_Task_2_IPv4_Subnetting_Report_Tahir_Mehdi.pdf)**
+**[Week 1 – Task 2: IPv4 Addressing & Subnetting Report](docs/Week_1_Task_2_IPv4_Subnetting_Report_Tahir_Mehdi)**
 
 ---
 
