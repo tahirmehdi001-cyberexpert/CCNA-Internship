@@ -9,7 +9,6 @@
 <p align="center">
   <b>Organization:</b> TechBiz Academy<br>
   <b>Intern:</b> Tahir Mehdi<br>
-  <b>Student ID:</b> TBS-2026-2582<br>
   <b>Program:</b> CCNA Networking Internship
 </p>
 
