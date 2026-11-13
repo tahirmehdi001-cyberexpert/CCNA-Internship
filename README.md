@@ -62,26 +62,26 @@ The internship focuses on developing a strong foundation in networking concepts 
 
 This section tracks my internship assignments, practical activities, and learning progress.
 
-| Week | Task | Assignment / Topic | Status |
-|---|---|---|---|
-| Week 01 | Task 01 | Build Your CCNA Lab & How Networks Actually Work | ✅ Completed |
-| Week 01 | Task 02 | IPv4 Addressing & Subnetting | ✅ Completed |
-| Week 01 | Task 03 | The IOS Command Line, Interfaces and Recovery | 🔄 In Progress|
-| Week 02 | Task 04 | VLANs and Access Ports | ⏳ Upcoming |
-| Week 02 | Task 05| Trunking, 802.1Q and the Native VLAN | ⏳ Upcoming |
-| Week 02 | Task 06| Spanning Tree and EtherChannel | ⏳ Upcoming |
-| Week 03 | Task 07| Static and Default Routing | ⏳ Upcoming |
-| Week 03 | Task 08| OSPFv2 Single-Area | ⏳ Upcoming |
-| Week 03 | Task 09| Inter-VLAN Routing and First-Hop Redundancy | ⏳ Upcoming |
-| Week 04 | Task 10| DHCP, DNS and NAT/PAT | ⏳ Upcoming |
-| Week 04 | Task 11| IPv6 Addressing and Dual-Stack Routing | ⏳ Upcoming |
-| Week 04 | Task 12| Access Control Lists | ⏳ Upcoming |
-| Week 05 | Task 13| Device Hardening and Layer 2 Security | ⏳ Upcoming |
-| Week 05 | Task 14| Wireless Networking | ⏳ Upcoming |
-| Week 05 | Task 15|Automation and Programmability | ⏳ Upcoming |
-| Week 06 | Task 16|Timed Troubleshooting — Fix a Network You Did Not Build | ⏳ Upcoming |
-| Week 06 | Task 17|CCNA 200-301 Exam Preparation | ⏳ Upcoming |
-| Week 06 | Task 18| CAPSTONE — Design, Build and Document a Full Enterprise Network | ⏳ Upcoming |
+| Week | Task | Assignment / Topic | Status | Explore |
+|---|---|---|---|---|
+| Week 01 | Task 01 | Build Your CCNA Lab & How Networks Actually Work | ✅ Completed | [🔗 Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-01/Task%201) |
+| Week 01 | Task 02 | IPv4 Addressing & Subnetting | ✅ Completed | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 01 | Task 03 | The IOS Command Line, Interfaces and Recovery | 🔄 In Progress | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 02 | Task 04 | VLANs and Access Ports | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 02 | Task 05 | Trunking, 802.1Q and the Native VLAN | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 02 | Task 06 | Spanning Tree and EtherChannel | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 03 | Task 07 | Static and Default Routing | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 03 | Task 08 | OSPFv2 Single-Area | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 03 | Task 09 | Inter-VLAN Routing and First-Hop Redundancy | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 04 | Task 10 | DHCP, DNS and NAT/PAT | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 04 | Task 11 | IPv6 Addressing and Dual-Stack Routing | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 04 | Task 12 | Access Control Lists | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 05 | Task 13 | Device Hardening and Layer 2 Security | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 05 | Task 14 | Wireless Networking | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 05 | Task 15 | Automation and Programmability | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 06 | Task 16 | Timed Troubleshooting — Fix a Network You Did Not Build | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 06 | Task 17 | CCNA 200-301 Exam Preparation | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
+| Week 06 | Task 18 | CAPSTONE — Design, Build and Document a Full Enterprise Network | ⏳ Upcoming | [🔗 Explore](YOUR-REPOSITORY-LINK) |
 > **Note:** Weekly tasks and their statuses will be updated as the internship progresses.
 
 ## 🛠️ Technologies & Tools
