@@ -18,7 +18,6 @@
 | Detail | Information |
 |:---|:---|
 | **Name** | Tahir Mehdi |
-| **Student ID** | TBS-2026-2582 |
 | **Organization** | TechBiz Academy |
 | **Internship** | Networking Internship |
 | **Task** | Week 1 – Task 2 |
