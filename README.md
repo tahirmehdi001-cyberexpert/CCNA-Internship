@@ -39,7 +39,6 @@ The primary objective is to strengthen my networking fundamentals through practi
 | **Program** | CCNA Networking Internship |
 | **Domain** | Networking & Infrastructure |
 | **Intern** | Tahir Mehdi |
-| **Student ID** | TBS-2026-258 |
 | **Tools** | Cisco Packet Tracer, Cisco IOS |
 | **Learning Approach** | Hands-on Labs & Practical Assignments |
 | **Repository Type** | Technical Learning Portfolio |
