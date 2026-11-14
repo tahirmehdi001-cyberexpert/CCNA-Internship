@@ -551,6 +551,22 @@ Through this practical task, I gained hands-on experience in:
 - Verifying network connectivity and troubleshooting configuration issues.
 
 ---
+## 📥 13. Download Packet Tracer Lab
+
+The complete Cisco Packet Tracer lab file used in this practical task is available for download.
+
+You can download the lab file, open it in Cisco Packet Tracer, and explore the router and switch configurations.
+
+### 📂 Lab File
+
+- **File Name:** `Week-1-Task-3-Lab.pkt`
+- **Software Required:** Cisco Packet Tracer
+- **Devices:** Router R1, Switch S1, PC1
+
+### ⬇️ Download Lab File
+
+[**Download Cisco Packet Tracer Lab (.pkt)**](Packet-Tracer\Task3.pkt)
+
 
 ## 🏁 12. Conclusion
 
