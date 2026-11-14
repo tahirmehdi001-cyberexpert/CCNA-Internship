@@ -258,7 +258,7 @@ ssh -l admin 192.168.10.2
 
 <!-- SCREENSHOT PLACEHOLDER 04: Insert successful SSH session to R1 from PC1 -->
 
-![SSH Router Verification](Screenshots/04-ssh-router.png)
+![SSH Router Verification](Screenshots/SSH_Router_Verification.jpg)
 
 ### SSH Verification – Switch S1
 
