@@ -55,7 +55,7 @@ The practical lab consists of one router, one Layer 2 switch, and one PC. The ro
 
 <!-- SCREENSHOT PLACEHOLDER 01: Insert complete Packet Tracer / GNS3 network topology screenshot here -->
 
-![Lab Network Topology](Screenshots/01-network-topology.png)
+![Lab Network Topology](Screenshots\Lab_Network_Topology.jpg)
 
 ---
 
