@@ -565,7 +565,7 @@ You can download the lab file, open it in Cisco Packet Tracer, and explore the r
 
 ### ⬇️ Download Lab File
 
-[**Download Cisco Packet Tracer Lab (.pkt)**](Packet-Tracer\Task3.pkt)
+[**Download Cisco Packet Tracer Lab (.pkt)**](Packet-Tracer/Week-1-Task-3-Lab.pkt)
 
 
 ## 🏁 12. Conclusion
