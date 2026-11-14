@@ -293,7 +293,7 @@ A properly functioning connected router interface should generally display `up/u
 
 <!-- SCREENSHOT PLACEHOLDER 06: Insert actual show ip interface brief output -->
 
-![Show IP Interface Brief](Screenshots/06-show-ip-interface-brief.png)
+![Show IP Interface Brief](Screenshots/Show_IP_Interface_Brief.jpg)
 
 ### 7.2 show version
 
