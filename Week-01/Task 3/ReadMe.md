@@ -150,8 +150,11 @@ copy running-config startup-config
 
 <!-- SCREENSHOT PLACEHOLDER 02: Insert R1 running configuration screenshot here -->
 
-![Router Configuration](Screenshots/02-router-configuration.png)
-
+![Router Configuration](Screenshots\Router_Configuration_1.jpg)
+![Router Configuration](Screenshots\Router_Configuration_1.2.jpg)
+![Router Configuration](Screenshots\Router_Configuration_1.3.jpg)
+![Router Configuration](Screenshots\Router_Configuration_1.4.jpg)
+![Router Configuration](Screenshots\Router_Configuration_1.5.jpg)
 ---
 
 ## 🔀 5. Switch Configuration – S1
