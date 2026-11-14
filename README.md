@@ -66,7 +66,7 @@ This section tracks my internship assignments, practical activities, and learnin
 |---|---|---|---|---|
 | Week 01 | Task 01 | Build Your CCNA Lab & How Networks Actually Work | ✅ Completed | [ Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-01/Task%201) |
 | Week 01 | Task 02 | IPv4 Addressing & Subnetting | ✅ Completed | [ Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-01/Task%202) |
-| Week 01 | Task 03 | The IOS Command Line, Interfaces and Recovery | 🔄 In Progress | [ Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-01/Task%203) |
+| Week 01 | Task 03 | The IOS Command Line, Interfaces and Recovery | ✅ Completed | [ Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-01/Task%203) |
 | Week 02 | Task 04 | VLANs and Access Ports | ⏳ Upcoming | [Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-02/Task%204) |
 | Week 02 | Task 05 | Trunking, 802.1Q and the Native VLAN | ⏳ Upcoming | [Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-02/Task%205) |
 | Week 02 | Task 06 | Spanning Tree and EtherChannel | ⏳ Upcoming | [Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-02/Task%206) |
