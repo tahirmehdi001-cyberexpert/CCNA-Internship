@@ -22,9 +22,9 @@ The objective of Week 1 was to establish a strong foundation in computer network
 |---|---|---|---|
 | Task 01 | Build Your CCNA Lab & How Networks Actually Work | ✅ Completed | 10/10 |
 | Task 02 | IPv4 Addressing & Subnetting | ✅ Completed | 10/10 |
-| Task 03 | The IOS Command Line, Interfaces & Recovery | ✅ Completed | Completed |
+| Task 03 | The IOS Command Line, Interfaces & Recovery | ✅ Completed | 10/10 |
 
-**Total confirmed score: 20/20** (Tasks 1 & 2; Task 3 grading pending).
+**Total confirmed score: 30/30** 
 
 ---
 
@@ -267,23 +267,27 @@ Week-01/
 │
 ├── README.md
 │
-├── Task-01-Networking-Fundamentals/
-│   ├── labs/
-│   │   └── task-01.pkt
+├── Task 1/
+│   ├── Task1.pkt
+│   │   
 │   ├── screenshots/
-│   └── report/
+│   ├── README.md
+    └── docs/
 │
-├── Task-02-IPv4-Subnetting/
-│   ├── labs/
-│   │   └── task-02.pkt
-│   ├── screenshots/
-│   └── report/
+├── Task 2/
+│   ├── docs/
+│   │   └── Week_1_Task_2_IPv4_Subnetting_Report_Tahir_Mehdi.pdf
+│   │── screenshots/
+    ├── ReadMe.md
+│   └── Week_1_Task_2_IPv4_Subnetting_Tahir_Mehdi.pkt
 │
-└── Task-03-IOS-CLI-Recovery/
-    ├── labs/
-    │   └── task-03.pkt
+└── Task 03/
+    ├── docs/
+    │   └── Week1-Task3_Report.pdf
+    ├── Packet-Tracer/
+                  └──Week-1-Task-3-Lab.pkt
     ├── screenshots/
-    └── report/
+    └── ReadMe
 ```
 
 ---
@@ -297,7 +301,7 @@ ADP Computer Science Student | CCNA Networking Intern | Aspiring Network & Cyber
 - **Organization:** TechBiz Security
 - **Focus Areas:** Computer Networking, Network Security, Cisco Technologies and Cybersecurity
 - **GitHub:** [Tahir Mehdi](https://github.com/tahirmehdi001-cyberexpert)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tahirmehdi18/)
 
 ---
 
