@@ -312,8 +312,9 @@ R1# show version
 
 <!-- SCREENSHOT PLACEHOLDER 07: Insert actual show version output -->
 
-![Show Version](Screenshots/07-show-version.png)
-
+![Show Version](Screenshots/show_version1.jpg)
+![Show Version](Screenshots/show_version1.2.jpg)
+![Show Version](Screenshots/show_version1.3.jpg)
 ### 7.3 Additional Verification Commands
 
 ```cisco
@@ -368,14 +369,14 @@ R1# show ip interface brief
 
 <!-- SCREENSHOT PLACEHOLDER 08: Insert successful copy running-config startup-config confirmation -->
 
-![Configuration Backup](Screenshots/08-configuration-backup.png)
+![Configuration Backup](Screenshots/Configuration_Backup.jpg)
 
 ### After-Reload Verification
 
 <!-- SCREENSHOT PLACEHOLDER 09: Insert router output after reload showing preserved configuration -->
 
-![After Reload Verification](Screenshots/09-after-reload-verification.png)
-
+![After Reload Verification](Screenshots/After_Reload_Verification1.jpg)
+![After Reload Verification](Screenshots/After_Reload_Verification1.2.jpg)
 ---
 
 ## 🔑 9. Password Recovery Using Configuration Register
@@ -400,7 +401,7 @@ The commonly used normal configuration register value is:
 
 <!-- SCREENSHOT PLACEHOLDER 10: Insert original show version / configuration register evidence -->
 
-![Original Configuration Register](Screenshots/10-original-config-register.png)
+![Original Configuration Register](Screenshots/Original_Configuration_Register.jpg)
 
 ### 9.2 Changing Configuration Register
 
@@ -414,7 +415,7 @@ confreg 0x2142
 
 <!-- SCREENSHOT PLACEHOLDER 11: Insert ROMMON screenshot showing confreg 0x2142 -->
 
-![Configuration Register Changed](Screenshots/11-config-register-2142.png)
+![Configuration Register Changed](Screenshots/Configuration_Register_Changed.jpg)
 
 ### 9.3 Router Reload After Register Change
 
@@ -426,7 +427,7 @@ reset
 
 <!-- SCREENSHOT PLACEHOLDER 12: Insert router reload screenshot after configuration register change -->
 
-![Router Reload](Screenshots/12-router-reload.png)
+![Router Reload](Screenshots/Router_Reload.jpg)
 
 ### 9.4 Startup Configuration Ignored
 
@@ -438,8 +439,10 @@ Router> enable
 
 <!-- SCREENSHOT PLACEHOLDER 13: Insert evidence of router booting without startup configuration -->
 
-![Startup Configuration Ignored](Screenshots/13-startup-config-ignored.png)
-
+![Startup Configuration Ignored](Screenshots/Startup_Configuration_Ignored.jpg)
+![Startup Configuration Ignored](Screenshots/Startup_Configuration_Ignored1.2.jpg)
+![Startup Configuration Ignored](Screenshots/Startup_Configuration_Ignored1.3.jpg)
+![Startup Configuration Ignored](Screenshots/Startup_Configuration_Ignored1.4.jpg)
 ### 9.5 Restoring Startup Configuration
 
 The saved configuration was restored into the running configuration.
@@ -450,7 +453,7 @@ Router# copy startup-config running-config
 
 <!-- SCREENSHOT PLACEHOLDER 14: Insert configuration restoration command and output -->
 
-![Startup Configuration Restored](Screenshots/14-startup-config-restored.png)
+![Startup Configuration Restored](Screenshots/Startup_Configuration_Restored.jpg)
 
 ### 9.6 Updating Credentials and Restoring Normal Configuration
 
@@ -487,11 +490,11 @@ After completing the recovery process, SSH connectivity was tested again from PC
 
 <!-- SCREENSHOT PLACEHOLDER 15: Insert successful SSH login to R1 after password recovery -->
 
-![Post Recovery Router Login](Screenshots/15-post-recovery-router-login.png)
+![Post Recovery Router Login](Screenshots/Post_Recovery_Router_Login.jpg)
 
 <!-- SCREENSHOT PLACEHOLDER 16: Insert successful SSH login to S1 after password recovery -->
 
-![Post Recovery Switch Login](Screenshots/16-post-recovery-switch-login.png)
+![Post Recovery Switch Login](Screenshots/Post_Recovery_Switch_Login.jpg)
 
 ---
 
