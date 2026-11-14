@@ -224,7 +224,12 @@ copy running-config startup-config
 
 <!-- SCREENSHOT PLACEHOLDER 03: Insert S1 running configuration screenshot here -->
 
-![Switch Configuration](Screenshots/03-switch-configuration.png)
+![Switch Configuration](Screenshots/Switch_Config_1.jpg)
+![Switch Configuration](Screenshots/Switch_Config_1.2.jpg)
+![Switch Configuration](Screenshots/Switch_Config_1.3.jpg)
+![Switch Configuration](Screenshots/Switch_Config_1.4.jpg)
+![Switch Configuration](Screenshots/Switch_Config_1.5.jpg)
+
 
 ---
 
