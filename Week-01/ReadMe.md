@@ -1,4 +1,5 @@
 # 🚀 CCNA Networking Internship — Week 1
+
 ### TechBiz Security | Networking & Infrastructure Labs
 
 <p align="center">
@@ -24,23 +25,17 @@ The objective of Week 1 was to establish a strong foundation in computer network
 | Task 02 | IPv4 Addressing & Subnetting | ✅ Completed | 10/10 |
 | Task 03 | The IOS Command Line, Interfaces & Recovery | ✅ Completed | 10/10 |
 
-**Total confirmed score: 30/30** 
+**Total Score: 30/30**
 
 ---
 
 ## 🧪 Task 01 — Build Your CCNA Lab & Networking Fundamentals
 
-<details>
-<summary><strong>📂 View Task 01 Documentation</strong></summary>
-
 ### 🎯 Objectives
 
 - Install and configure Cisco Packet Tracer.
 - Understand basic networking concepts and communication.
-- Build a network topology containing:
-  - 2 Routers
-  - 2 Switches
-  - 4 End Devices (PCs)
+- Build a network topology containing 2 routers, 2 switches and 4 PCs.
 - Configure IP addresses on network devices.
 - Establish communication between all four PCs.
 - Understand the journey of a packet across a network.
@@ -53,34 +48,11 @@ The objective of Week 1 was to establish a strong foundation in computer network
 - ICMP / Ping
 - Basic Network Topology
 
-### 📸 Lab Evidence
-
-**Network Topology**
-
-![Task 01 Network Topology](screenshots/task-01/topology.png)
-
-**PC Connectivity Verification**
-
-![Task 01 Ping Test](screenshots/task-01/ping-test.png)
-
-### 📁 Lab Files
-
-- [Packet Tracer Lab](labs/task-01/)
-
-### 🏆 Result
-
-**10/10 — Excellent**
-
-Successfully built the network topology and verified connectivity between all four PCs.
-
-</details>
+📂 **[Explore Task 01 — Complete Documentation, Screenshots & Packet Tracer Lab](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-01/Task%201)**
 
 ---
 
 ## 🧪 Task 02 — IPv4 Addressing & Subnetting
-
-<details>
-<summary><strong>📂 View Task 02 Documentation</strong></summary>
 
 ### 🎯 Objectives
 
@@ -104,54 +76,15 @@ Successfully built the network topology and verified connectivity between all fo
 - Broadcast Address Calculation
 - ICMP Connectivity Testing
 
-### 📊 VLSM Requirements
-
-The network `192.168.10.0/24` was divided to accommodate:
-
-| Network Requirement | Required Hosts |
-|---|---:|
-| Subnet 01 | 50 |
-| Subnet 02 | 25 |
-| Subnet 03 | 12 |
-| Subnet 04 | 2 |
-| Subnet 05 | 2 |
-
-### 📸 Lab Evidence
-
-**Updated Network Topology**
-
-![Task 02 Topology](screenshots/task-02/topology.png)
-
-**IP Address Configuration**
-
-![Task 02 IP Configuration](screenshots/task-02/ip-configuration.png)
-
-**Connectivity Verification**
-
-![Task 02 Ping Verification](screenshots/task-02/ping-test.png)
-
-### 📁 Lab Files
-
-- [Packet Tracer Lab](labs/task-02/)
-
-### 🏆 Result
-
-**10/10 — Excellent**
-
-Successfully completed IPv4 subnetting exercises, implemented VLSM addressing, and verified network connectivity.
-
-</details>
+📂 **[Explore Task 02 — Complete Documentation, Screenshots & Packet Tracer Lab](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-01/Task%202)**
 
 ---
 
 ## 🧪 Task 03 — The IOS Command Line, Interfaces & Recovery
 
-<details>
-<summary><strong>📂 View Task 03 Documentation</strong></summary>
-
 ### 🎯 Objectives
 
-- Understand Cisco IOS command-line interface (CLI).
+- Understand Cisco IOS Command-Line Interface (CLI).
 - Work with User EXEC, Privileged EXEC and Global Configuration modes.
 - Configure hostnames, banners and device passwords.
 - Configure SSH for secure remote device management.
@@ -179,43 +112,7 @@ Successfully completed IPv4 subnetting exercises, implemented VLSM addressing, a
 | `copy running-config startup-config` | Save configuration |
 | Configuration Register | Support router password recovery |
 
-### 📸 Lab Evidence
-
-**Router Configuration**
-
-![Router Configuration](screenshots/task-03/router-configuration.png)
-
-**Switch Configuration**
-
-![Switch Configuration](screenshots/task-03/switch-configuration.png)
-
-**SSH Verification**
-
-![SSH Verification](screenshots/task-03/ssh-verification.png)
-
-**Show Command Outputs**
-
-![Show Commands](screenshots/task-03/show-commands.png)
-
-**Password Recovery / Configuration Register**
-
-![Password Recovery](screenshots/task-03/password-recovery.png)
-
-**Post-Recovery Login Verification**
-
-![Post Recovery Verification](screenshots/task-03/post-recovery-verification.png)
-
-### 📁 Lab Files
-
-- [Packet Tracer Lab](labs/task-03/)
-
-### 🏆 Result
-
-**Completed — Grading pending.**
-
-Successfully practised Cisco IOS device configuration, secure remote access, configuration management and router password recovery.
-
-</details>
+📂 **[Explore Task 03 — Complete Documentation, Screenshots & Packet Tracer Lab](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-01/Task%203)**
 
 ---
 
@@ -269,25 +166,24 @@ Week-01/
 │
 ├── Task 1/
 │   ├── Task1.pkt
-│   │   
 │   ├── screenshots/
 │   ├── README.md
-    └── docs/
+│   └── docs/
 │
 ├── Task 2/
 │   ├── docs/
 │   │   └── Week_1_Task_2_IPv4_Subnetting_Report_Tahir_Mehdi.pdf
-│   │── screenshots/
-    ├── ReadMe.md
+│   ├── screenshots/
+│   ├── ReadMe.md
 │   └── Week_1_Task_2_IPv4_Subnetting_Tahir_Mehdi.pkt
 │
-└── Task 03/
+└── Task 3/
     ├── docs/
     │   └── Week1-Task3_Report.pdf
     ├── Packet-Tracer/
-                  └──Week-1-Task-3-Lab.pkt
+    │   └── Week-1-Task-3-Lab.pkt
     ├── screenshots/
-    └── ReadMe
+    └── ReadMe.md
 ```
 
 ---
