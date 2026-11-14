@@ -264,7 +264,7 @@ ssh -l admin 192.168.10.2
 
 <!-- SCREENSHOT PLACEHOLDER 05: Insert successful SSH session to S1 from PC1 -->
 
-![SSH Switch Verification](Screenshots/05-ssh-switch.png)
+![SSH Switch Verification](Screenshots/SSH_Switch_Verification.jpg)
 
 ---
 
