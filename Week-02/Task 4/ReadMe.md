@@ -164,13 +164,13 @@ The following commands were used to verify the switch configuration.
 
 <!-- Insert your own show vlan brief screenshot -->
 
-![VLAN Verification](screenshots/vlan-verification.png)
+![VLAN Verification](Screenshots\Show_Vlan_brief_Output.jpg)
 
 ### MAC Address Table Verification
 
 <!-- Insert your own show mac address-table screenshot -->
 
-![MAC Address Table](screenshots/mac-address-table.png)
+![MAC Address Table](Screenshots\Show_Mac_address_Table_output.jpg)
 
 ## 🧪 Connectivity Testing
 
@@ -196,15 +196,15 @@ ping 192.168.10.12
 
 **VLAN 10 — Staff**
 
-![Staff VLAN Ping](screenshots/staff-ping.png)
+![Staff VLAN Ping](Screenshots\VLAN10_Staff.jpg)
 
 **VLAN 20 — Finance**
 
-![Finance VLAN Ping](screenshots/finance-ping.png)
+![Finance VLAN Ping](Screenshots\VLAN20_Finance.jpg)
 
 **VLAN 30 — Guest**
 
-![Guest VLAN Ping](screenshots/guest-ping.png)
+![Guest VLAN Ping](Screenshots/VLAN30_Guest.jpg)
 
 ### Cross-VLAN Connectivity
 
@@ -224,11 +224,11 @@ ping 192.168.20.11
 
 <!-- Insert your own failed ping screenshots -->
 
-![Staff to Finance Isolation](screenshots/staff-finance-failed-ping.png)
+![Staff to Finance Isolation](Screenshots/Staff_to_Finance_Isolation.jpg)
 
-![Finance to Guest Isolation](screenshots/finance-guest-failed-ping.png)
+![Finance to Guest Isolation](screenshots/Finance_to_Guest_Isolation.jpg)
 
-![Guest to Finance Isolation](screenshots/guest-finance-failed-ping.png)
+![Guest to Finance Isolation](Screenshots/Guest_to_Finance_Isolation.jpg)
 
 ## 📊 Results and Observations
 
