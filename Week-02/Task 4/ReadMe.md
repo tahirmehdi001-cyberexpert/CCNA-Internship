@@ -67,7 +67,7 @@ The topology consists of one Cisco 2960 switch connected to six PCs, divided int
 
 <!-- Insert your own Packet Tracer topology screenshot below -->
 
-![VLAN Network Topology](screenshots/vlan-topology.png)
+![VLAN Network Topology](Screenshots\Topology.jpg)
 
 ## 🏷️ VLAN Configuration Plan
 
@@ -261,7 +261,7 @@ Through this practical lab, I gained hands-on experience with:
   <img src="https://img.shields.io/badge/IPv4-Addressing-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/CLI-Cisco%20IOS-black?style=flat-square" />
 </p>
-## 📥 Download PDF Report
+ 📥 Download PDF Report
 
 You can view or download the complete documentation of this VLAN configuration lab.
 
@@ -279,7 +279,7 @@ You can view or download the complete documentation of this VLAN configuration l
 - Inter-VLAN isolation tests
 - Results, observations, and conclusion
 
-> **Note:** Make sure the PDF is uploaded to the `report` folder in your GitHub repository using this exact filename: `TechBizAcademy-Week-2-Task-4.pdf`.
+> **Note:** Make sure the PDF is uploaded to the `docs` folder in your GitHub repository using this exact filename: `Week2_Task4_Report.pdf`.
 
 
 ## 👨‍💻 Internship Information
