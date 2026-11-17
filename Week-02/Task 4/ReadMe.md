@@ -67,7 +67,7 @@ The topology consists of one Cisco 2960 switch connected to six PCs, divided int
 
 <!-- Insert your own Packet Tracer topology screenshot below -->
 
-![VLAN Network Topology](Screenshots\Topology.jpg)
+![VLAN Network Topology](Screenshots/Topology.jpg)
 
 ## 🏷️ VLAN Configuration Plan
 
@@ -164,13 +164,13 @@ The following commands were used to verify the switch configuration.
 
 <!-- Insert your own show vlan brief screenshot -->
 
-![VLAN Verification](Screenshots\Show_Vlan_brief_Output.jpg)
+![VLAN Verification](Screenshots/Show_Vlan_brief_Output.jpg)
 
 ### MAC Address Table Verification
 
 <!-- Insert your own show mac address-table screenshot -->
 
-![MAC Address Table](Screenshots\Show_Mac_address_Table_output.jpg)
+![MAC Address Table](Screenshots/Show_Mac_address_Table_output.jpg)
 
 ## 🧪 Connectivity Testing
 
@@ -196,11 +196,11 @@ ping 192.168.10.12
 
 **VLAN 10 — Staff**
 
-![Staff VLAN Ping](Screenshots\VLAN10_Staff.jpg)
+![Staff VLAN Ping](Screenshots/VLAN10_Staff.jpg)
 
 **VLAN 20 — Finance**
 
-![Finance VLAN Ping](Screenshots\VLAN20_Finance.jpg)
+![Finance VLAN Ping](Screenshots/VLAN20_Finance.jpg)
 
 **VLAN 30 — Guest**
 
@@ -267,8 +267,8 @@ You can view or download the complete documentation of this VLAN configuration l
 
 | Resource | Description |
 |---|---|
-| 📄 [Download PDF Report](docs\Week2_Task4_Report.pdf) | Complete Week 2 – Task 4 lab report |
-| 👁️ [View PDF Report](docs\Week2_Task4_Report.pdf) | Open the report directly from GitHub |
+| 📄 [Download PDF Report](docs/Week2_Task4_Report.pdf) | Complete Week 2 – Task 4 lab report |
+| 👁️ [View PDF Report](docs/Week2_Task4_Report.pdf) | Open the report directly from GitHub |
 
 **Report includes:**
 - VLAN configuration and IP addressing
