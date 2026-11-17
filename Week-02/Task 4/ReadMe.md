@@ -261,6 +261,26 @@ Through this practical lab, I gained hands-on experience with:
   <img src="https://img.shields.io/badge/IPv4-Addressing-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/CLI-Cisco%20IOS-black?style=flat-square" />
 </p>
+## 📥 Download PDF Report
+
+You can view or download the complete documentation of this VLAN configuration lab.
+
+| Resource | Description |
+|---|---|
+| 📄 [Download PDF Report](docs\Week2_Task4_Report.pdf) | Complete Week 2 – Task 4 lab report |
+| 👁️ [View PDF Report](docs\Week2_Task4_Report.pdf) | Open the report directly from GitHub |
+
+**Report includes:**
+- VLAN configuration and IP addressing
+- Cisco IOS configuration commands
+- VLAN verification screenshots
+- MAC address table verification
+- Same-VLAN connectivity tests
+- Inter-VLAN isolation tests
+- Results, observations, and conclusion
+
+> **Note:** Make sure the PDF is uploaded to the `report` folder in your GitHub repository using this exact filename: `TechBizAcademy-Week-2-Task-4.pdf`.
+
 
 ## 👨‍💻 Internship Information
 
