@@ -166,7 +166,7 @@ The following commands were used to verify the switch configuration.
 
 ![VLAN Verification](Screenshots/Show_Vlan_brief_Output.jpg)
 
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### MAC Address Table Verification
 
