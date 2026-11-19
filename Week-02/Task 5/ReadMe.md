@@ -66,7 +66,7 @@ The trunk carries VLAN 10, VLAN 20, and VLAN 30. VLAN 99 is configured as the Na
 
 <!-- SCREENSHOT PLACEHOLDER: Replace with your actual Packet Tracer topology screenshot -->
 
-![Network Topology](Screenshots/01-Network-Topology.png)
+![Network Topology](Screenshots/Topology.jpg)
 
 ---
 
