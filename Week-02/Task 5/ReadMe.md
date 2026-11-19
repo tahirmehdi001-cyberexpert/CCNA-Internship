@@ -160,7 +160,7 @@ The command was used to verify VLAN creation and access-port membership.
 
 <!-- SCREENSHOT PLACEHOLDER: Replace with your show vlan brief screenshot -->
 
-![VLAN Database Verification](Screenshots/02-VLAN-Database.png)
+![VLAN Database Verification](Screenshots/show_vlan_brief.jpg)
 
 ---
 
