@@ -251,12 +251,15 @@ show interfaces trunk
 When VLAN 30 was removed from the allowed VLAN list, its traffic could not cross the trunk link. The ping test between PC3 and PC6 failed, while the other tested VLANs remained operational.
 
 <!-- SCREENSHOT PLACEHOLDER: Allowed VLAN list restricted to VLAN 10 and 20 -->
+Switch 1-Allowed VLAN restriction and test result
+![Allowed VLAN Restriction](Screenshots/SW1_Allowed_VLAN_Restriction.jpg)
 
-![Allowed VLAN Restriction](Screenshots/05-Allowed-VLAN-Restriction.png)
+Switch 2-Allowed VLAN restriction and test result
+![Allowed VLAN Restriction](Screenshots/SW2_Allowed_VLAN_Restriction.jpg)
 
 <!-- SCREENSHOT PLACEHOLDER: PC3 to PC6 ping failure -->
 
-![VLAN 30 Ping Failure](Screenshots/06-VLAN-30-Ping-Failure.png)
+![VLAN 30 Ping Failure](Screenshots/VLAN_30_Ping_Failure.jpg)
 
 ### Restore the Allowed VLAN List
 
@@ -342,8 +345,8 @@ The captured frame belonged to VLAN 10. The VLAN tag confirmed that the Ethernet
 
 <!-- SCREENSHOT PLACEHOLDER: Replace with your Packet Tracer 802.1Q frame capture -->
 
-![802.1Q Frame Capture](Screenshots/07-8021Q-Frame-Capture.png)
-
+![802.1Q Frame Capture](Screenshots/802.1Q_Frame_Capture.jpg)
+![802.1Q Frame Capture](Screenshots/802.1Q_Frame_Capture2.jpg)
 ---
 
 ## ⚠️ 6. Native VLAN Mismatch Demonstration
@@ -394,11 +397,11 @@ The switches were operating with inconsistent Native VLAN settings.
 
 <!-- SCREENSHOT PLACEHOLDER: Show Native VLAN 99 on Switch 1 -->
 
-![Switch 1 Native VLAN Mismatch](Screenshots/08-Native-VLAN-Switch1.png)
+![Switch 1 Native VLAN Mismatch](Screenshots/Switch_1_Native_VLAN_Mismatch.jpg)
 
 <!-- SCREENSHOT PLACEHOLDER: Show Native VLAN 1 on Switch 2 -->
 
-![Switch 2 Native VLAN Mismatch](Screenshots/09-Native-VLAN-Switch2.png)
+![Switch 2 Native VLAN Mismatch](Screenshots/Switch_2_Native_VLAN_Mismatch.jpg)
 
 ---
 
@@ -424,7 +427,11 @@ And STP-related warnings indicating inconsistent VLAN information on the trunk.
 
 <!-- SCREENSHOT PLACEHOLDER: Native VLAN mismatch log evidence -->
 
-![Native VLAN Mismatch Logs](Screenshots/10-Native-VLAN-Mismatch-Logs.png)
+![Native VLAN Mismatch Logs](Screenshots\Native_VLAN_Mismatch_Logs\Native_VLAN_Mismatch_Logs.jpg)
+![Native VLAN Mismatch Logs](Screenshots\Native_VLAN_Mismatch_Logs\Native_VLAN_Mismatch_Logs2.jpg)
+![Native VLAN Mismatch Logs](Screenshots\Native_VLAN_Mismatch_Logs\Native_VLAN_Mismatch_Logs3.jpg)
+![Native VLAN Mismatch Logs](Screenshots\Native_VLAN_Mismatch_Logs\Native_VLAN_Mismatch_Logs4.jpg)
+![Native VLAN Mismatch Logs](Screenshots\Native_VLAN_Mismatch_Logs\Native_VLAN_Mismatch_Logs5.jpg)
 
 ### Why the Mismatch Is a Problem
 
