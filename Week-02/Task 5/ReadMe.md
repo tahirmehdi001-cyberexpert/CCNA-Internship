@@ -568,7 +568,6 @@ show logging
 | Native VLAN correction | Consistent Native VLAN | VLAN 99 verified on both switches |
 | 802.1Q frame inspection | Tag visible | TPID `0x8100`, VID 10 |
 
-<!-- SCREENSHOT PLACEHOLDER: Final successful VLAN 10 connectivity -->
 
 
 
@@ -620,33 +619,37 @@ I successfully configured an 802.1Q trunk between two switches, verified VLAN me
 The troubleshooting process reinforced the importance of matching Native VLAN settings, verifying trunk configuration on both endpoints, and validating network behavior through real connectivity tests rather than relying on configuration commands alone.
 
 ---
+## 📥 Download Packet Tracer Lab
 
-## 📁 Repository Structure
+You can download the complete Cisco Packet Tracer project file (`.pkt`) used in this lab to explore the topology, VLAN configuration, trunking, and Native VLAN troubleshooting.
 
-```text
-CCNA-Internship/
-└── Week-02/
-    └── Task-05/
-        ├── README.md
-        └── Screenshots/
-            ├── 01-Network-Topology.png
-            ├── 02-VLAN-Database.png
-            ├── 03-Trunk-Configuration.png
-            ├── 04-Trunk-Verification.png
-            ├── 05-Allowed-VLAN-Restriction.png
-            ├── 06-VLAN-30-Ping-Failure.png
-            ├── 07-8021Q-Frame-Capture.png
-            ├── 08-Native-VLAN-Switch1.png
-            ├── 09-Native-VLAN-Switch2.png
-            ├── 10-Native-VLAN-Mismatch-Logs.png
-            ├── 11-Native-VLAN-Fixed-Switch1.png
-            ├── 12-Native-VLAN-Fixed-Switch2.png
-            ├── 13-DTP-Configuration.png
-            ├── 14-DTP-Disabled.png
-            └── 15-Connectivity-Verification.png
-```
+
+
+### 📂 Lab File
+
+| File                                       | Description                                            |
+| ------------------------------------------ | ------------------------------------------------------ |
+| `Week_2_Task_5_Trunking_802.1Q_Native_VLAN_DTP.pkt` | Complete Packet Tracer lab topology for Week 2, Task 5 |
+
+### ⬇️ Download
+
+\<!-- Replace the link below with your actual uploaded .pkt file link -->
+
+[**⬇️ Download Packet Tracer File (.pkt)**](./Week_2_Task_5_Trunking_802.1Q_Native_VLAN_DTP.pkt)
+
+### 🧰 Requirements
+
+- Cisco Packet Tracer installed on your computer.
+- Download the `.pkt` file from this repository.
+- Open the project in Cisco Packet Tracer.
+- Explore the topology and experiment with VLANs, trunk links, allowed VLANs, and Native VLAN configurations.
 
 ---
+
+**Feel free to download the lab, explore the configurations, and practice networking concepts hands-on.** 🚀
+
+
+
 
 ## 👨‍💻 Author
 
