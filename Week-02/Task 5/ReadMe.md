@@ -486,12 +486,16 @@ After correcting the configuration, both switches showed Native VLAN 99, and the
 
 <!-- SCREENSHOT PLACEHOLDER: Final trunk verification on Switch 1 -->
 
-![Native VLAN Fixed Switch 1](Screenshots/11-Native-VLAN-Fixed-Switch1.png)
+![Native VLAN Fixed Switch 1](Screenshots/Native_VLAN_Fixed_Switch_1.jpg)
 
 <!-- SCREENSHOT PLACEHOLDER: Final trunk verification on Switch 2 -->
 
-![Native VLAN Fixed Switch 2](Screenshots/12-Native-VLAN-Fixed-Switch2.png)
+![Native VLAN Fixed Switch 2](Screenshots/Native_VLAN_Fixed_Switch_2.jpg)
 
+---
+Screenshot — Connectivity Test
+Ping PC1 to PC4
+![Screenshot 3 — Connectivity Test](Screenshots/Connectivity_Test.jpg)
 ---
 
 ## 🔄 9. Dynamic Trunking Protocol (DTP)
@@ -532,11 +536,11 @@ end
 
 <!-- SCREENSHOT PLACEHOLDER: DTP modes or switchport details -->
 
-![DTP Configuration](Screenshots/13-DTP-Configuration.png)
+![DTP Configuration](Screenshots/DTP_Configuration.jpg)
 
 <!-- SCREENSHOT PLACEHOLDER: Negotiation disabled verification -->
 
-![DTP Disabled](Screenshots/14-DTP-Disabled.png)
+![DTP Disabled](Screenshots/DTP_Disabled.jpg)
 
 ---
 
@@ -566,7 +570,7 @@ show logging
 
 <!-- SCREENSHOT PLACEHOLDER: Final successful VLAN 10 connectivity -->
 
-![Connectivity Verification](Screenshots/15-Connectivity-Verification.png)
+
 
 ---
 
