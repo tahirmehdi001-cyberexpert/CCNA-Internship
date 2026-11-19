@@ -159,9 +159,11 @@ show vlan brief
 The command was used to verify VLAN creation and access-port membership.
 
 <!-- SCREENSHOT PLACEHOLDER: Replace with your show vlan brief screenshot -->
+Switch 1-Show Vlan Brief
+![VLAN Database Verification](Screenshots/SW1_show_vlan_brief.jpg)
 
-![VLAN Database Verification](Screenshots/show_vlan_brief.jpg)
-
+Switch 2-Show Vlan Brief
+![VLAN Database Verification](Screenshots/SW2_show_vlan_brief.jpg)
 ---
 
 ## 🔗 2. Configure the IEEE 802.1Q Trunk
@@ -204,12 +206,15 @@ show interfaces trunk
 
 <!-- SCREENSHOT PLACEHOLDER: Replace with the trunk configuration screenshot -->
 
-![Trunk Configuration](Screenshots/03-Trunk-Configuration.png)
+![Trunk Configuration](Screenshots/Trunk_Configuration.jpg)
 
 <!-- SCREENSHOT PLACEHOLDER: Replace with show interfaces trunk output -->
 
-![Trunk Verification](Screenshots/04-Trunk-Verification.png)
+Switch 1-Trunk verification (show interfaces trunk)
+![Trunk Verification](Screenshots/SW1_Trunk_Verification.jpg)
 
+Switch 2-Trunk verification (show interfaces trunk)
+![Trunk Verification](Screenshots/SW2_Trunk_Verification.jpg)
 ---
 
 ## 🚦 3. Allowed VLAN List Testing
