@@ -69,7 +69,7 @@ Configured default routes to forward unknown destination traffic toward the cent
 
 **Packet Tracer File:**
 
-[Download Default Routing Lab](Default-Routing\Default_Static_Routing.pkt)
+[Download Default Routing Lab](Default_Static_Routing.pkt)
 
 ## Verification Commands
 
