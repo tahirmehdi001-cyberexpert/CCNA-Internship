@@ -100,7 +100,7 @@ Access the practical report and Cisco Packet Tracer lab file below.
 
 | Resource | Download |
 |---|---|
-| 📄 Practical Report (PDF) | [Download Report](./Week_3_Task_8_OSPFv2_Report.pdf) |
+| 📄 Practical Report (PDF) | [Download Report](docs/Week_3_Task_8_OSPFv2_Report.pdf) |
 | 🌐 Packet Tracer Lab (.pkt) | [Download Packet Tracer File](./OSPFv2_Single-Area.pkt) |
 
 **Files Included:**
