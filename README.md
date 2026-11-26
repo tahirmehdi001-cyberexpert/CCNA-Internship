@@ -71,7 +71,7 @@ This section tracks my internship assignments, practical activities, and learnin
 | Week 02 | Task 05 | Trunking, 802.1Q and the Native VLAN | ✅ Completed | [Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-02/Task%205) |
 | Week 02 | Task 06 | Spanning Tree and EtherChannel | ⏳ Upcoming | [Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-02/Task%206) |
 | Week 03 | Task 07 | Static and Default Routing | ✅ Completed| [Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-03/Task%207) |
-| Week 03 | Task 08 | OSPFv2 Single-Area | ⏳ Upcoming | [Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-03/Task%208) |
+| Week 03 | Task 08 | OSPFv2 Single-Area | ✅ Completed | [Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-03/Task%208) |
 | Week 03 | Task 09 | Inter-VLAN Routing and First-Hop Redundancy | ⏳ Upcoming | [Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-03/Task%209) |
 | Week 04 | Task 10 | DHCP, DNS and NAT/PAT | ⏳ Upcoming | [Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-04/Task%2010) |
 | Week 04 | Task 11 | IPv6 Addressing and Dual-Stack Routing | ⏳ Upcoming | [Explore](https://github.com/tahirmehdi001-cyberexpert/CCNA-Internship/tree/main/Week-04/Task%2011) |
