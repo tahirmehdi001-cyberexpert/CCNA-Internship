@@ -54,7 +54,7 @@ Configured static routes to establish communication between three different LAN 
 
 **Packet Tracer File:**
 
-[Download Static Routing Lab](Static-Routing\Static_Routing.pkt)
+[Download Static Routing Lab](Static_routing.pkt)
 
 ### 2. Default Routing
 
