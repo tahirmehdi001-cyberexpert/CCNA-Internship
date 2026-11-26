@@ -54,7 +54,7 @@ Configured static routes to establish communication between three different LAN 
 
 **Packet Tracer File:**
 
-[Download Static Routing Lab](Static-Routing/Static_Routing.pkt)
+[Download Static Routing Lab](Static-Routing\Static_Routing.pkt)
 
 ### 2. Default Routing
 
@@ -69,7 +69,7 @@ Configured default routes to forward unknown destination traffic toward the cent
 
 **Packet Tracer File:**
 
-[Download Default Routing Lab](Default-Routing/Default_Routing.pkt)
+[Download Default Routing Lab](Default-Routing\Default_Static_Routing.pkt)
 
 ## Verification Commands
 
